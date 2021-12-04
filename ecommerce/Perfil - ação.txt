@@ -1,0 +1,22 @@
+
+@Perfil
+
+- perfil_id		V
+- acao		V
+
+Tipos de ações pré-definidas para Perfís:
+
+1. Visualizar
+2. Inserir
+3. Alterar
+4. Gerar
+5. Deletar
+
+Perfís pré-definidos:
+
+ ID	-	  ACOES  	TIPOS DE USUÁRIOS
+#I	-	1,2,3,4,5. 	Usuário master 
+#II	-	1,2,3,4,5. 	Usuário gerente
+#III	-	1,2,4. 	Usuário funcional
+#IV	-	1,4. 	Usuário auxiliar 
+#V	-	1. 	Usuário comum

@@ -1,0 +1,54 @@
+PAINEL LISTAGEM DE ÍTENS
+
+produto_id
+nome
+marca
+tamanho
+modelo
+preco_venda
+categoria_id		#
+subcategoria_id		#
+caminho_img_frente
+ativo
+Ações			#
+
+
+PAINEL DE CADASTRO DE ÍTENS
+
+PRODUTO
+nome
+promocional
+ativo
+caminho_img_frente	CIfr
+caminho_img_lateral	CIla
+caminho_img_fundo	CIfu
+destacar_site
+peso
+altura
+largura
+profundidade
+ncm_id		#
+subcategoria_id	#	recebeValor
+categoria_id	#	passaValor
+
+PRECO
+produto_id	#^
+preco_venda
+preco_compra
+preco_promocional
+preco_custo
+desconto
+
+CODBARRA
+codbarra_id
+produto_id	#
+fornecedor_id	#
+marca
+tamanho
+modelo
+cor
+
+NCM
+ncm_id		#
+
+

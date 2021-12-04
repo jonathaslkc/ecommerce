@@ -1,0 +1,40 @@
+
+@Usuário
+
+- País		V
+- Estado		V
+- Cidade		V
+- Endereço	V
+- loja		V
+- Perfil		V
+- funcionario	V
+
+
+@BannerPublicidade
+
+- banner		V
+
+
+@Slider
+
+- slider		V
+
+
+@Item
+
+ - fornecedor	V
+ - ncm		V
+ - categoria	V
+ - subcategoria	V
+ - produto		V
+ - codbarras	V
+ - preco		V
+
+
+@Ecommerce
+
+ - cliente		V
+ - tipo_pagto	V
+ - ecommerce	V
+ - produto_ecommerce	V
+ - movimento	V

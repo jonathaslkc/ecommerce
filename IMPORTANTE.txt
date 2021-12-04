@@ -1,0 +1,47 @@
+V -> Incrementar novo campo na tabela Produto
+	# Descrição
+V -> Alterar grafia errada de algumas tabelas
+	# Realizar verificação minuciosa
+	# Verificar padronização de campos, como Ativo (exemplo.: Tabela Categoria->ativa)
+V -> Alterar Chave Primária de tabela para Autoincrement
+	# Tabela Fornecedor
+	# E outras...
+V -> Padronizar as chamadas da classe e registros de Produto
+	# Alterar de Ítens para Produto
+	#subcategoria -> sub_categoria_id para subcategoria_id
+Implementar HTACESS
+	# Endereço Amigável
+	# Retirar a extensão PHP dos arquivos da view public
+	# Impedir acesso indevido às pastas da raíz e filhas
+	# Redirecionamento quando acessado view não existente
+V -> Alteração do campo Data da tabela Ecommerce
+	# antigo - padrão
+	# novo -  prédefino: timestamp
+
+V -> Alterar
+	#Script CNPJ format
+
+V -> Verificar erro na seleção pela loja (categoria->.subcategoria ventilador)
+	#erro php try object
+
+V -> Estilizar Cmapo busca produto
+	#arredondar
+
+V -> Alterar chave primaria da tabela Sub_categoria
+	#de Sub_categoria para Subcategoria
+	#linhas seguindo mesmo padrão estético - SubCategoria_id
+
+Criar Script PHP para campo Busca Produto
+	#pesquisar por nome
+
+Melhorar Script Boleto
+	#Caracteres especiais - UTF-8 / ISO
+	#Vencimento fixo (5 dias após a compra)
+	#Inserir Code QR
+
+V -> Novos Campos DB DHONO
+	#Table Ecommerce
+	            -Campos-
+		-Cep de entrega
+		-Número do imóvel
+		-Complemento
